@@ -1,0 +1,50 @@
+CustomerID,PhoneNumber,CallDuration,DataUsage,Location,PlanType,ServiceProvider
+1,555-123-4567,45,2500,New York,Prepaid,Verizon
+2,555-234-5678,12,1500,Los Angeles,Postpaid,AT&T
+3,555-345-6789,78,8000,Chicago,Prepaid,T-Mobile
+4,555-456-7890,23,3200,Houston,Postpaid,Verizon
+5,555-567-8901,56,4500,Phoenix,Prepaid,AT&T
+6,555-678-9012,34,2100,Philadelphia,Postpaid,T-Mobile
+7,555-789-0123,67,6700,San Antonio,Prepaid,Verizon
+8,555-890-1234,89,9200,San Diego,Postpaid,AT&T
+9,555-901-2345,15,1200,Dallas,Prepaid,T-Mobile
+10,555-012-3456,43,3800,San Jose,Postpaid,Verizon
+11,555-123-4568,72,5600,Austin,Prepaid,AT&T
+12,555-234-5679,28,2900,Jacksonville,Postpaid,T-Mobile
+13,555-345-6790,51,4100,Fort Worth,Prepaid,Verizon
+14,555-456-7891,64,5300,Columbus,Postpaid,AT&T
+15,555-567-8902,37,2700,Charlotte,Prepaid,T-Mobile
+16,555-678-9013,81,7800,San Francisco,Postpaid,Verizon
+17,555-789-0124,19,1800,Indianapolis,Prepaid,AT&T
+18,555-890-1235,46,3600,Seattle,Postpaid,T-Mobile
+19,555-901-2346,73,6100,Denver,Prepaid,Verizon
+20,555-012-3457,25,2400,Boston,Postpaid,AT&T
+21,555-123-4569,58,4700,El Paso,Prepaid,T-Mobile
+22,555-234-5680,31,3100,Detroit,Postpaid,Verizon
+23,555-345-6791,69,5900,Nashville,Prepaid,AT&T
+24,555-456-7892,42,3400,Portland,Postpaid,T-Mobile
+25,555-567-8903,76,6500,Oklahoma City,Prepaid,Verizon
+26,555-678-9014,14,1300,Las Vegas,Postpaid,AT&T
+27,555-789-0125,87,8400,Memphis,Prepaid,T-Mobile
+28,555-890-1236,22,2200,Louisville,Postpaid,Verizon
+29,555-901-2347,54,4300,Baltimore,Prepaid,AT&T
+30,555-012-3458,67,5500,Milwaukee,Postpaid,T-Mobile
+31,555-123-4570,39,3300,Albuquerque,Prepaid,Verizon
+32,555-234-5681,71,6000,Tucson,Postpaid,AT&T
+33,555-345-6792,18,1700,Fresno,Prepaid,T-Mobile
+34,555-456-7893,83,7600,Sacramento,Postpaid,Verizon
+35,555-567-8904,26,2600,Mesa,Prepaid,AT&T
+36,555-678-9015,49,3900,Kansas City,Postpaid,T-Mobile
+37,555-789-0126,62,5000,Atlanta,Prepaid,Verizon
+38,555-890-1237,35,2800,Long Beach,Postpaid,AT&T
+39,555-901-2348,74,6200,Colorado Springs,Prepaid,T-Mobile
+40,555-012-3459,27,2700,Raleigh,Postpaid,Verizon
+41,555-123-4571,52,4200,Miami,Prepaid,AT&T
+42,555-234-5682,68,5700,Virginia Beach,Postpaid,T-Mobile
+43,555-345-6793,41,3300,Omaha,Prepaid,Verizon
+44,555-456-7894,79,7000,Oakland,Postpaid,AT&T
+45,555-567-8905,33,3100,Minneapolis,Prepaid,T-Mobile
+46,555-678-9016,56,4500,Tulsa,Postpaid,Verizon
+47,555-789-0127,44,3500,Arlington,Prepaid,AT&T
+48,555-890-1238,77,6600,New Orleans,Postpaid,T-Mobile
+49,555-901-2349,29,2900,Wichita,Prepaid,Verizon

@@ -35,3 +35,5 @@ build/
 .metals/
 .mvn/
 data/rocksdb/
+
+.bloop/
